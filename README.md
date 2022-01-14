@@ -1,1 +1,1 @@
-# odin-recipes
+The Project is about different food recepies.
